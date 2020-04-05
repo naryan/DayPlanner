@@ -4,8 +4,7 @@
 
 1. Link to github repo: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-2. Link to github pages: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-
+2. Link to github pages: https://naryan.github.io/homework5/
 
 Technology Used:
 + HTML, CSS, Javascript/jQuery
