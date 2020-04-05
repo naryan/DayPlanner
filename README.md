@@ -2,7 +2,7 @@
 
 ###### URL Links:
 
-1. Link to github repo: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+1. Link to github repo: https://github.com/naryan/homework5
 
 2. Link to github pages: https://naryan.github.io/homework5/
 
@@ -23,4 +23,4 @@ Challenges
 It was a challange for me to understand local storage and its technique to work around. Also it was a challenge to make
 everything work with the jQuery.
 
-Moment.js was new and had to fixure its method to work around. 
+Moment.js was new and had to fixure its method to work around.
